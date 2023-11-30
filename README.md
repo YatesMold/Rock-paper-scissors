@@ -1,0 +1,3 @@
+# Rock-paper-scissors
+
+Summary: This C programming project is a simple console-based implementation of the classic Rock, Paper, Scissors game. The program allows the user to play against the computer in a series of rounds. The user inputs their choice (Rock=1, Paper=2, or Scissors=3), and the computer generates a random choice. The program then determines the winner based on the game rules: Rock crushes Scissors, Scissors cuts Paper, and Paper covers Rock. The game keeps track of the user's score and the computer's score, displaying the results after each round. The project is an excellent introduction to basic control structures, user input handling, random number generation, and conditional statements in C.
